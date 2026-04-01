@@ -1,0 +1,5 @@
+{
+  "name": "Weather Trend Planner",
+  "description": "Analyze upcoming weather trends and get outdoor activity recommendations.",
+  "requestFramePermissions": []
+}
